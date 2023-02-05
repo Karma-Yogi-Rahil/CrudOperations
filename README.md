@@ -4,7 +4,7 @@ This an as basic web app which performs CRUD operations with all valid validatio
 >The password is encrypted using SHA 256 algorithm and random salt code.   
 
 ### Here is the demo. 
->![](Images\NVIDIA_Share_n8t6WxnUKc.gif)
+>![](CrudOperations\Images\NVIDIA_Share_n8t6WxnUKc.gif)
 
 ### Here is the images.
 >![](Images\NVIDIA_Share_HBjgeVh6pj.png)
