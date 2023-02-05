@@ -1,4 +1,4 @@
-# CrudOperations
+# Crud Operations
 
 This an as basic web app which performs CRUD operations with all valid validations. These is an admin page of a application which showcases user details. 
 >The password is encrypted using SHA 256 algorithm and random salt code.   
